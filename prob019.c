@@ -8,19 +8,26 @@ int main()
 {
 	printf("Enter number of candies = ");
 	int c; // c for candy
-	scanf("%d", &c);
+	while (scanf("%d", &c) != 1 || c < 0)
+	{
+		printf("Invalid input, please enter a positive integer\n");
+	}
+
 	printf("Enter number of kids to distribute the %d candies = ",c);
 	int k; // k for kids
-	scanf("%d", &k);
+	while (scanf("%d", &k) != 1 || k < 0)
+	{
+		printf("Invalid input, please enter a positive integer\n");
+	}
 
 	// calculating eql no. of candy given and remaining candy
 
 	if (k != 0)
 	{
 		int rc; // remaining candy after distribution
-		rc = (int)(c % k);
+		rc = (unsigned int)(c % k);
 		int ec; // ec for equal no. of candy distribution
-		ec = (int)(c / k);
+		ec = (unsigned int)(c / k);
 
 		//showing the output
 
