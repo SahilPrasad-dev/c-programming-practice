@@ -1,7 +1,6 @@
-//GIVEN 2 INTEGERS X AND Y
-//FIND THE SMALLEST NUMBER THAT
-//MUST BE SUBTRACTED FROM X SO THAT
-//RESULTING NUMBER IS EXACTLY DIVISIBLE BY Y
+// Smallest Number to Make Divisible(Subtraction)
+// Given two integers x and y, 
+// find the smallest number that must be subtracted from x so that the resulting number is exactly divisible by y.
 
 #include <stdio.h>
 
