@@ -1,6 +1,6 @@
-//GIVEN 2 NUMBERS X AND Y
-//FIND THE SMALLEST NUMBER THAT MUST BE ADDED TO X
-//SO THAT THE RESULTING NUMBER IS EXACTLY DIVISIBLE BY Y
+// Smallest Number to Make Divisible 
+// Given two integers x and y, 
+// find the smallest number that must be added to x to make it exactly divisible by y.
 
 # include <stdio.h>
 
@@ -21,7 +21,7 @@ int main()
 	else
 		ans = y - rem;
 
-	printf("smalles int to add to %d to make it divisible by %d = %d\n", x, y, ans);
+	printf("smalles int to add to %d to make it exactly divisible by %d = %d\n", x, y, ans);
 
 	return 0;
 }
