@@ -1,4 +1,12 @@
-//ASCII CONVERSION
+// ASCII Conversion 
+// A university is developing a simple student coding lab tool 
+// where students can learn about how computers store characters using ASCII values.
+// The system should take an integer input(representing the ASCII code of a character) and 
+// display its corresponding alphabet.
+// For example : 
+// ● Input : 65 → Output : A 
+// ● Input : 97 → Output : a 
+// Write a C program that reads two ASCII values(integers) from the user and prints their corresponding characters.
 
 #include <stdio.h>
 
