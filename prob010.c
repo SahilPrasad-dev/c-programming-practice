@@ -1,4 +1,10 @@
-//TEMPRATURE CONVERSION
+// Temperature Conversion  
+// Ramesh is working as a weather reporter.
+// Every day, he receive temperature readings from different weather stations.
+// However, some stations send temperatures in Celsius(°C) while others send them in Fahrenheit(°F).
+// The conversions are as follows : 
+// Celsius to Fahrenheit : F = (C×1.8) + 32  
+// Fahrenheit to Celsius : C = (F−32)/1.8
 
 #include <stdio.h>
 
