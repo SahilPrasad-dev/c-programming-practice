@@ -1,4 +1,6 @@
-//SUM OF N NATURAL NUMBERS
+// Sum of Natural Numbers 
+// Given an integer n, your task is to find the sum of natural numbers from 1 to n using the formula : 
+// Sum = n×(n + 1) / 2
 
 # include <stdio.h>
 
