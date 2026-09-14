@@ -1,4 +1,4 @@
-// Swapping of Two Bags 
+// Swapping of Two Bags
 // Two friends accidentally exchanged their bags.
 // To correct the mistake, they decide to swap their bags back.
 // Given two integers A and B representing the bag numbers, 
