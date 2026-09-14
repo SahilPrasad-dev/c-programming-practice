@@ -1,4 +1,5 @@
-//AREA AND PERIMETER OF CIRCLE
+// Area and Perimeter of a Circle 
+// Given the radius of a circle, your task is to compute the area and perimeter of the circle.
 
 #include <stdio.h>
 #define pi 3.14   // defining a constant
