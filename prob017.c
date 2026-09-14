@@ -1,4 +1,4 @@
-// swapping numbers without temp variable
+// swapping numbers (without temp variable)
 
 # include <stdio.h>
 
