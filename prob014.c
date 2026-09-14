@@ -1,4 +1,4 @@
-//Triangle Angle Calculator
+// Triangle Angle Calculator 
 // You are given two angles of a triangle.
 // Your task is to write a C program to calculate the third angle of the triangle.
 
