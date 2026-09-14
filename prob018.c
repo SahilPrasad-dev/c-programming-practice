@@ -1,4 +1,4 @@
-// finding area and perimeter of a triangle
+// finding area and perimeter of a triangle using sqrt funcn
 
 #include <stdio.h>
 #include <math.h>
