@@ -1,8 +1,14 @@
-//GROSS SALARY CALCULATION
-
-//take inputs for basic salary, HRA, DA
-//Calculate PF also as 10% of basic salary
-//Add all and give the output
+// Gross Salary Calculation 
+// Raji is working as an HR executive in a company.
+// Every month, she need to prepare the salary slips for employees.
+// The salary of an employee is not just the basic salary, 
+// but also includes additional allowances like 
+// House Rent Allowance(HRA) and Dearness Allowance(DA), which depend on the basic salary.
+// Now calculate the gross salary  
+// Basic Salary : The base amount of the employee's salary. 
+// Dearness Allowance (DA): An allowance given to employees to mitigate the impact of inflation. 
+// House Rent Allowance (HRA): An allowance provided for housing expenses.
+// Additionally, the Provident Fund (PF) is calculated as 10% of the Basic Salary.
 
 #include <stdio.h>
 
