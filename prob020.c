@@ -1,4 +1,4 @@
-// Test Score Evaluation 
+// Test Score Evaluation
 // Alice and Bob appeared for the same test.
 // Their teacher wants to quickly compare their marks : 
 // ● Print 1 if Alice scored more.
