@@ -1,4 +1,4 @@
-//Total Bill Calculation
+// Total Bill Calculation
 // A shop sells items at a fixed price P each.
 // A customer purchases Q items.
 // The shopkeeper needs to calculate the total bill amount for the customer.
