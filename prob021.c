@@ -1,4 +1,4 @@
-// Odd or Even Token 
+// Odd or Even Token
 // At an amusement park, tickets are issued based on whether the visitor’s token number is odd or even: 
 // ● If the token number is even, the visitor is sent to Counter A.
 // ● If the token number is odd, the visitor is sent to Counter B.
