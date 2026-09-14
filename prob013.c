@@ -1,7 +1,6 @@
-//SIMPLE INTEREST CALCULATION
-//Given the principal amount (P), time period (T) in years, 
-//and rate of interest (R) per annum, 
-//your task is to calculate the simple interest and Compound Interest.
+// Simple Interest Calculation 
+// Given the principal amount(P), time period(T) in years, and rate of interest(R) per annum, 
+// your task is to calculate the simple interest and Compound Interest.
 
 # include <stdio.h>
 
