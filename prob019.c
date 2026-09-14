@@ -1,4 +1,4 @@
-// Equal Candy Distribution 
+// Equal Candy Distribution
 // Ravi has X candies and he wants to distribute them equally among Y kids.
 // Help him find how many candies each kid gets and how many candies remain undistributed.
 
