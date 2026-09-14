@@ -1,4 +1,4 @@
-//Arithmetic Expression Calculator
+// Arithmetic Expression Calculator
 // You are given three floating - point numbers : x, y, and z.
 // Your task is to calculate and print the results of the following expressions :
 // 1. (x + y + z) / (x - y - z) 
