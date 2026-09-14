@@ -1,4 +1,4 @@
-// Age Difference 
+// Age Difference
 // Two friends are comparing their ages.
 // They want to know the absolute difference in their ages
 // (the difference should always be positive regardless of who is older).
