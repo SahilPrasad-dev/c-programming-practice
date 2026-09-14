@@ -1,4 +1,12 @@
-//FORMATTING VALUES OF TYPE DOUBLE AND FLOAT
+// Formatting values of type double and float 
+// A travel agency wants to maintain a record of distances in both miles(as entered by users) 
+// and kilometres(converted value).
+// Since precise values are needed, 
+// the program should display the distance in 
+// kilometres with three decimal places(% .3lf) for scientific accuracy and 
+// two decimal places(% .2f) for general reporting.
+// Your task is to read the distance in miles for two trips and prints the values in a given format. 
+// (Kilometres = Miles × 1.60934)
 
 # include <stdio.h>
 
@@ -23,4 +31,4 @@ int main()
 }
 
 // perfect spacing ke liye jitna pura space h us se ek no. km dalo
-//jaise tripid se miles tk 11 jagah h to specify 10 karo
+// jaise tripid se miles tk 11 jagah h to specify 10 karo
