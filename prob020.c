@@ -9,20 +9,12 @@
 
 int main()
 {
-	printf("Enter marks of Alice = ");
-	float ma; // marks of alice
-	scanf("%f", &ma);
+	printf("Enter marks of Alice and Bob = ");
+	float a; // marks of alice
+	float b; // marks of 
+	scanf("%f %f", &a, &b);
 
-	printf("Enter marks of Bob = ");
-	float mb; // marks of bob
-	scanf("%f", &mb);
-
-	if (ma > mb)
-		printf(" 1 \n");
-	else if (ma < mb)
-		printf(" 2 \n");
-	else
-		printf(" 0 \n");
-
+	(a > b)?printf("1- Alice scored more\n"):(a == b)?printf("0-Both scored equal"):printf("2-Bob scored more");
+	
 	return 0;
 }
