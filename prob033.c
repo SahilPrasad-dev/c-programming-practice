@@ -1,4 +1,4 @@
-// Floating point to Integer 
+// Floating point to Integer
 // Conversion A mobile recharge app calculates the bill amount with decimal values(floating - point).
 // However, when generating the final invoice, the amount must be shown as an integer(rounded down).
 // Given a decimal number X(the bill amount), convert it into an integer using type conversion and print it.
