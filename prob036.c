@@ -1,4 +1,4 @@
-//Absolute Value Finder
+// Absolute Value Finder
 // Context : An embedded sensor module tracks distance drift.
 // Physical distances cannot be negative, so negative readings must be corrected to their absolute magnitude.
 // Task : Read an integer N.
