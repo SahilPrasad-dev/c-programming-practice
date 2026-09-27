@@ -1,6 +1,6 @@
 // Indian Income Tax Engine
 // Write a C program to calculate annual income tax based on the chosen tax regime and gross income.
-// Taxable Income : 
+// Taxable Income :
 // Taxable Income = Gross Income - 50000(If Taxable Income is less than 0, set it to 0)
  
 // Old Regime(Regime 1) :
