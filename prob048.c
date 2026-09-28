@@ -3,14 +3,14 @@
 // Taxable Income :
 // Taxable Income = Gross Income - 50000(If Taxable Income is less than 0, set it to 0)
  
-// Old Regime(Regime 1) :
+// Old Regime(Regime 1):
 // Up to ₹2.5L : 0%
 // ₹2.5L to ₹5L : 5% of amount above ₹2.5L
 // ₹5L to ₹10L : ₹12500 + 20% of amount above ₹5L
 // Above ₹10L : ₹112500 + 30% of amount above ₹10L
 // Rebate : If Taxable Income <= ₹5L , Base Tax = 0.
  
-// New Regime(Regime 2) :
+// New Regime(Regime 2):
 // Up to ₹3L : 0%
 // ₹3L to ₹7L : 5% of amount above ₹3L
 // ₹7L to ₹10L : ₹20000 + 10% of amount above ₹7L
