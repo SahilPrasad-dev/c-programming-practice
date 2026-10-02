@@ -1,6 +1,6 @@
 // Formatting values of type double and float 
 // A travel agency wants to maintain a record of distances in both miles(as entered by users) 
-// and kilometres(converted value).
+// and kilometres(converted value)
 // Since precise values are needed, 
 // the program should display the distance in 
 // kilometres with three decimal places(% .3lf) for scientific accuracy and 
