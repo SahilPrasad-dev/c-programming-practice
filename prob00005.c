@@ -1,6 +1,6 @@
 // ASCII Conversion 
 // A university is developing a simple student coding lab tool 
-// where students can learn about how computers store characters using ASCII values.
+// where students can learn about how computers store characters using ASCII values
 // The system should take an integer input(representing the ASCII code of a character) and 
 // display its corresponding alphabet.
 // For example : 
