@@ -1,6 +1,6 @@
 // Formatted Student Result Sheet
-// During an examination, the teacher enters the roll numbers and marks of students into the computer.
-// Instead of displaying them in an unorganized manner, the output should appear as a neatly formatted result sheet.
+// During an examination, the teacher enters the roll numbers and marks of students into the computer
+// Instead of displaying them in an unorganized manner, the output should appear as a neatly formatted result sheet
 // Use formatted output(printf width specifiers such as % 4d, % 6d, etc.) 
 // to align the roll numbers and marks in columns.
 
