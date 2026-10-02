@@ -1,6 +1,6 @@
 // Electricity Bill  
 // A billing system in a shopping mall needs to calculate different results from two given values : 
-// ● The total bill amount after combining two sections(Addition).
+// ● The total bill amount after combining two sections(Addition)
 // ● The difference in sales between two counters(Subtraction).
 // ● The combined revenue if sales are multiplied(Multiplication).
 // ● The ratio of sales between the two counters(Division).
