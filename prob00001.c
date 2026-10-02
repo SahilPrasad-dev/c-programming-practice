@@ -1,5 +1,5 @@
-// Student Enrolment Details  
-// You are a newly admitted student in MLRIT.
+// Student Enrolment Details
+// You are a newly admitted student in MLRIT
 // During registration, the computer system prints your name, your branch of study and College Name.
 // So, your task is to print your information with college name 
 // neatly—just like the administration software would do for every student.
