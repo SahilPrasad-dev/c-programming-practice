@@ -17,3 +17,9 @@ int main()
 
 	return 0;
 }
+
+// Optimisation Analysis : 
+// Incrementing by 2 (i += 2) 
+// executes the loop body exactly N/2 times instead of N times, 
+// eliminating unnecessary odd - number checks and branch mispredictions.
+// Time Complexity : O(N)
