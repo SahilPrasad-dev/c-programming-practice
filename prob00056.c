@@ -1,4 +1,4 @@
-// calculate sum until user wants
+// calculate sum of digits until user wants
 // Statement: Calculate the sum of digits of a number until the user inputs 0 to terminate.
 
 #include <stdio.h>
